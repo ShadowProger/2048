@@ -1,0 +1,243 @@
+
+Textures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BackGround
+  rotate: false
+  xy: 1, 743
+  size: 700, 1245
+  orig: 700, 1245
+  offset: 0, 0
+  index: -1
+Field
+  rotate: false
+  xy: 1, 101
+  size: 640, 640
+  orig: 640, 640
+  offset: 0, 0
+  index: -1
+FieldCover
+  rotate: false
+  xy: 703, 1348
+  size: 640, 640
+  orig: 640, 640
+  offset: 0, 0
+  index: -1
+Title
+  rotate: false
+  xy: 1345, 1743
+  size: 665, 245
+  orig: 665, 245
+  offset: 0, 0
+  index: -1
+YouWinLbl
+  rotate: false
+  xy: 703, 1132
+  size: 508, 214
+  orig: 508, 214
+  offset: 0, 0
+  index: -1
+NewGameLbl
+  rotate: false
+  xy: 1, 1
+  size: 590, 98
+  orig: 590, 98
+  offset: 0, 0
+  index: -1
+GameOverLbl
+  rotate: false
+  xy: 1345, 1652
+  size: 597, 89
+  orig: 597, 89
+  offset: 0, 0
+  index: -1
+ContinueBtn
+  rotate: false
+  xy: 703, 1046
+  size: 424, 84
+  orig: 424, 84
+  offset: 0, 0
+  index: -1
+ContinueBtnDisabled
+  rotate: false
+  xy: 1345, 1566
+  size: 424, 84
+  orig: 424, 84
+  offset: 0, 0
+  index: -1
+NewGameBtn
+  rotate: false
+  xy: 703, 960
+  size: 424, 84
+  orig: 424, 84
+  offset: 0, 0
+  index: -1
+HighscoreLbl
+  rotate: false
+  xy: 1345, 1471
+  size: 313, 93
+  orig: 313, 93
+  offset: 0, 0
+  index: -1
+Label
+  rotate: false
+  xy: 703, 865
+  size: 313, 93
+  orig: 313, 93
+  offset: 0, 0
+  index: -1
+ScoreLbl
+  rotate: false
+  xy: 1345, 1376
+  size: 313, 93
+  orig: 313, 93
+  offset: 0, 0
+  index: -1
+NoLbl
+  rotate: false
+  xy: 703, 753
+  size: 168, 110
+  orig: 168, 110
+  offset: 0, 0
+  index: -1
+1024
+  rotate: false
+  xy: 1213, 1204
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+128
+  rotate: false
+  xy: 1357, 1232
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1501, 1232
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+YesLbl
+  rotate: false
+  xy: 873, 753
+  size: 168, 110
+  orig: 168, 110
+  offset: 0, 0
+  index: -1
+16384
+  rotate: false
+  xy: 1660, 1422
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1129, 988
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+RestartBtn
+  rotate: false
+  xy: 1771, 1584
+  size: 142, 66
+  orig: 142, 66
+  offset: 0, 0
+  index: -1
+2048
+  rotate: false
+  xy: 1804, 1440
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+RestartBtnActive
+  rotate: false
+  xy: 1213, 1136
+  size: 142, 66
+  orig: 142, 66
+  offset: 0, 0
+  index: -1
+256
+  rotate: false
+  xy: 1357, 1088
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+32
+  rotate: false
+  xy: 1501, 1088
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+32768
+  rotate: false
+  xy: 643, 599
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 643, 455
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+4096
+  rotate: false
+  xy: 643, 311
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+512
+  rotate: false
+  xy: 643, 167
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+64
+  rotate: false
+  xy: 787, 609
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+65536
+  rotate: false
+  xy: 787, 465
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 787, 321
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+8192
+  rotate: false
+  xy: 787, 177
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+UndoBtn
+  rotate: false
+  xy: 643, 99
+  size: 142, 66
+  orig: 142, 66
+  offset: 0, 0
+  index: -1
